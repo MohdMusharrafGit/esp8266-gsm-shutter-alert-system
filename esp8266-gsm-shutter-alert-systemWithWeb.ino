@@ -4,8 +4,8 @@
 #include <SoftwareSerial.h>
 
 // ---------------- CONFIG ----------------
-#define API_KEY "o6lCbSxiaWS1"
-String CLOUD_URL = "https://www.dataloggersindia.org/sync";
+#define API_KEY "abcde"
+String CLOUD_URL = "your cloud URL";
 
 // ---------------- PINS ------------------
 // SIM800L
